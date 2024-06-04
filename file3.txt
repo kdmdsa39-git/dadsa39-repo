@@ -1,0 +1,3 @@
+This is my 3rd file  'file3.txt
+This content will be copied into 4th file when created
+
