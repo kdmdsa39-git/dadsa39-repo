@@ -1,0 +1,4 @@
+This is my second file 'file2.txt'
+I am going put this file into my local Git Repository
+------------------------------------------------------
+Date: June 4 2024
